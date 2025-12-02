@@ -8,7 +8,7 @@
 **Email**: arnav.chandanani@gmail.com  
 **Requested Credits**: $1,000 USD  
 **Duration**: 12 months  
-**Application Date**: December 2024
+**Application Date**: December 2025
 
 ---
 
@@ -620,8 +620,6 @@ Our working prototype proves technical feasibility. AWS will provide the scalabl
 **Applicant**: Arnav Chandanani  
 **Email**: arnav.chandanani@gmail.com  
 **Location**: Dubai, United Arab Emirates  
-**GitHub**: [repository URL]  
-**Project Demo**: Available for AWS reviewers upon request
 
 **Preferred Contact Method**: Email  
 **Response Time**: Within 24 hours  
@@ -629,9 +627,7 @@ Our working prototype proves technical feasibility. AWS will provide the scalabl
 
 ---
 
-**Application Submitted**: December 2024  
-**Requested Review Timeline**: Within 30 days  
-**Proposed AWS Credits Start Date**: January 2025
+**Application Submitted**: December 2025 
 
 ---
 
